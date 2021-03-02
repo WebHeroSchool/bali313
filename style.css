@@ -1,5 +1,5 @@
 body{
-	background:url(image/background.svg); 
+	background:url(image/background.svg ) no-repeat; 
 }
 
 .wrapper {
@@ -12,13 +12,10 @@ body{
 	justify-content: space-between;
 }
 
-.logo {}
 .logo__liner {
 	margin: 80px 0 0 86px;
 }
 
-.burger__menu {}
-.menu__button {}
 .menu {
 	margin: 75px 0 0 0;
 }
@@ -71,7 +68,6 @@ body{
 	font: 22px/26px MuseoSansCurl, arial helvetica,sans-serif;
 	color: #F8EEE4;
 	margin: 19px 0 55px 16px;
-	white-space: 3px;
 }
 
 .main-content-left__button {
@@ -87,20 +83,22 @@ body{
 .main-content-right__image {
 	display: flex;
 	justify-content: space-around;
-	margin: 0 auto;
 }
 
 .main-content-right__image_one {
 	max-width:317px;
 	max-height:421px;
+	margin: 242px 0 0 300px;
 }
 
 .main-content-right__image_two {
 	max-width: 284px;
 	max-height: 379px;
+	margin: 262px 0 0 34px;
 }
 
 .main-content-right__image_three {
 	max-width: 253px;
 	max-height: 379px;
+	margin: 262px 0 0 34px;
 }
