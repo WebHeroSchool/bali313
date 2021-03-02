@@ -1,0 +1,106 @@
+body{
+	background:url(image/background.svg); 
+}
+
+.wrapper {
+	margin: 0 auto;
+	width: 89%;
+}
+
+.header {
+	display: flex;
+	justify-content: space-between;
+}
+
+.logo {}
+.logo__liner {
+	margin: 80px 0 0 86px;
+}
+
+.burger__menu {}
+.menu__button {}
+.menu {
+	margin: 75px 0 0 0;
+}
+
+.menu__item {
+	position: relative;
+	font: 22px/26px MuseoSansCurl, arial helvetica,sans-serif;
+	color: #F8EEE4;
+	text-decoration: none;
+}
+
+.menu__item:nth-child(1){
+	margin: 0 36px 0 0;
+}
+
+.menu__item:nth-child(2){
+	margin: 0 33px 0 0;
+}
+
+.menu__item:nth-child(3){
+	margin: 0 37px 0 0;
+}
+
+.menu__item:nth-child(4){
+	margin: 0 38px 0 0;
+}
+.menu__item:nth-child(5){
+	margin: 0 8px 0 0;
+}
+
+.main-content {
+	display: flex;
+	justify-content: space-between;
+	max-width: 37%;
+}
+
+.main-content-left {
+	margin: 206px 0 0 92px;
+	background: url(image/Bali.svg) no-repeat ;
+}
+
+.main-content-left__title {
+	font: 98px/130px pt serif, arial helvetica,sans-serif;
+	font-weight: bold;
+	color: #F8EEE4;
+	margin: 152px 0 0 77px; 
+}
+
+.main-content-left__subtitle {
+	font: 22px/26px MuseoSansCurl, arial helvetica,sans-serif;
+	color: #F8EEE4;
+	margin: 19px 0 55px 16px;
+	white-space: 3px;
+}
+
+.main-content-left__button {
+	padding: 19px 91px 18px 91px;
+	background: #D4BEA3;
+	border-radius: 48px;
+	font: 22px/26px MuseoSansCurl, arial helvetica,sans-serif;
+	color: #fff;
+	text-decoration: none;
+	margin:0 0 0 18px;
+}
+
+.main-content-right__image {
+	display: flex;
+	justify-content: space-around;
+	margin: 0 auto;
+}
+
+.main-content-right__image_one {
+	max-width:317px;
+	max-height:421px;
+}
+
+.main-content-right__image_two {
+	max-width: 284px;
+	max-height: 379px;
+}
+
+.main-content-right__image_three {
+	max-width: 253px;
+	max-height: 379px;
+}
