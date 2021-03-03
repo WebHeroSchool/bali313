@@ -19,7 +19,9 @@ body{
 .menu {
 	margin: 75px 0 0 0;
 }
-
+#menu__burger{
+	display: none;
+}
 .menu__item {
 	position: relative;
 	font: 22px/26px MuseoSansCurl, arial helvetica,sans-serif;
