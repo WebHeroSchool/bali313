@@ -105,7 +105,7 @@ body{
 }
 
 .main-content-right__image_three {
-	width: 253px;
+	width: 206px;
 	height: 379px;
 	margin: 269px 0 0 34px;
 	background: url(image/three-min.png)no-repeat;
@@ -189,7 +189,7 @@ body{
 	}
 
 	.main-content-right__image_three {
-		width: 180px;
+		width: 150px;
 		height: 270px;
 		margin: 190px 0 0 23px;
 		background-size: contain;
@@ -275,7 +275,7 @@ body{
 	}
 
 	.main-content-right__image_three {
-		width: 180px;
+		width: 150px;
 		height: 270px;
 		margin: 190px 0 0 23px;
 		background-size: contain;
